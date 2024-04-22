@@ -81,7 +81,7 @@ header h1{
 
 @media only screen and (max-width: 1400px) {
   .tribute_1{
-    background-color: yellow;
+/*     background-color: yellow; */
   }
   
 }
@@ -89,7 +89,7 @@ header h1{
 
 @media only screen and (max-width: 900px) {
   .tribute_1{
-    background-color: blue;
+/*     background-color: blue; */
     display: block; /* Added in*/
     
   }
@@ -117,20 +117,20 @@ header h1{
 
 @media only screen and (max-width: 767px) {
   .tribute_1{
-    background-color: red;
+/*     background-color: red; */
 
   }
 
 }
 @media only screen and (max-width: 620px) {
   .tribute_1{
-    background-color: orange;
+/*     background-color: orange; */
   }
 }
 
 @media only screen and (max-width: 500px) {
   .tribute_1{
-    background-color: green;
+/*     background-color: green; */
   }
   
 }
