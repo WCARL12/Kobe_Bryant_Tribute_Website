@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  margin: 0 auto;
+  width: 100%;
+  height: 100vh;
+  max-width: 2100px;
+}
+header h1{
+  text-align: center;
+  background-color: black;
+  color:white;
+  font-size: 2.8em;
+}
+.tribute_1{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: black;
+}
+
+.tribute_div_1{
+  width:50%;
+}
+.tribute_div_1 img{
+  width:100%;
+}
+.tribute_div_2{
+  margin-top:20%;
+  text-align: center;
+  /* display: flex; */
+  /* flex-direction: column;
+  justify-content: space-evenly; */
+  width:50%;
+  background-color: black;
+  color:white;
+  
+}
+.tribute_div_2_img{
+  width:100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top:30px;
+}
+#jersey_1{
+  border-radius: 40px;
+  width:30%;
+}
+#jersey_2{
+  border-radius: 40px;
+  margin-top:30px;
+  width:25%;
+}
+.tribute_head_desc{
+  margin-bottom:4%;
+  
+}
+#tribute_head_desc_1{
+  font-size: 4em;
+}
+#tribute_head_desc_2{
+  font-size: 3em;
+}
+#tribute_head_desc_3{
+  font-size: 2.5em;
+  margin-bottom:6%;
+}
+
+
+.tribute_div_2_paragraph_desc{
+  margin-top: 20px;
+  font-size: 1.2em;
+}
+
+/* Next Page */
+
+
+
+
+@media only screen and (max-width: 1400px) {
+  .tribute_1{
+    background-color: yellow;
+  }
+  
+}
+
+
+@media only screen and (max-width: 900px) {
+  .tribute_1{
+    background-color: blue;
+    display: block; /* Added in*/
+    
+  }
+  .tribute_div_1{
+    display: block; /* Added in*/
+    width: 100%;
+  }
+  /* .tribute_div_1 img{
+    width:100%;
+
+  } */
+  .tribute_div_2{
+    margin:0;
+    width: 100%;
+    font-size: 100%;
+  }
+  .tribute_div_2_desc{
+    padding:0 20px 0 20px;
+  }
+  .tribute_div_2_img img{
+    max-width:40% !important;
+  }
+
+}
+
+@media only screen and (max-width: 767px) {
+  .tribute_1{
+    background-color: red;
+
+  }
+
+}
+@media only screen and (max-width: 620px) {
+  .tribute_1{
+    background-color: orange;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .tribute_1{
+    background-color: green;
+  }
+  
+}
+
+@media only screen and (max-width: 479px) {
+
+
+}
