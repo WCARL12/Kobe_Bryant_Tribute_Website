@@ -1,5 +1,5 @@
 # Kobe_Bryant_Tribute_Website
-<h3>Under Construction</h3>
+<h3>*Under Construction*</h3>
 <h2>Website Description</h2>
 <p>Note: This is a redo version of the old Kobe Bryant Tribute Website</p>
 
