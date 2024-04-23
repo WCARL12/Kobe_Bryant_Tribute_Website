@@ -6,8 +6,8 @@
 <p>Note: This is a redo version of the old Kobe Bryant Tribute Website</p>
 
 <ul>
-  <ol>Planning to make it responsive</ol>
-  <ol>Making the code much more simpler</ol>
+  <li>Planning to make it responsive</li>
+  <li>Making the code much more simpler</li>
 </ul>
 
 <h2>Website Preview:</h2>
