@@ -184,9 +184,9 @@ a:hover:after {
 
 
 @media only screen and (max-width: 1400px) {
-  .tribute_1{
+/*   .tribute_1{
     background-color: yellow;
-  }
+  } */
   /* .tribute_2_desc blockquote{
     font-size: 100%;
   } */
@@ -220,9 +220,9 @@ a:hover:after {
   
 }
 @media only screen and (max-width: 1200px) {
-  .tribute_1{
+/*   .tribute_1{
     background-color: green;
-  }
+  } */
 
   .mamba_pics_all{
     height: 200px;
@@ -236,12 +236,12 @@ a:hover:after {
 
 @media only screen and (max-width: 900px) {
   .tribute_1{
-    background-color: blue;
-    display: block; /* Added in*/
+/*     background-color: blue; */
+    display: block; 
     
   }
   .tribute_div_1{
-    display: block; /* Added in*/
+    display: block; 
     width: 100%;
   }
   /* .tribute_div_1 img{
@@ -270,10 +270,7 @@ a:hover:after {
 }
 
 @media only screen and (max-width: 767px) {
-  .tribute_1{
-    background-color: red;
 
-  }
   .mamba_pics_all{
     height: 150px;
     width: 150px;
@@ -290,9 +287,7 @@ a:hover:after {
 
 }
 @media only screen and (max-width: 620px) {
-  .tribute_1{
-    background-color: orange;
-  }
+
   .mamba_pics_all{
     height: 100px;
     width: 100px;
@@ -305,9 +300,7 @@ a:hover:after {
 }
 
 @media only screen and (max-width: 500px) {
-  .tribute_1{
-    background-color: green;
-  }
+
   .tribute_2_header{
     font-size: 110%;
   }
